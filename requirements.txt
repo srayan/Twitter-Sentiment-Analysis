@@ -1,0 +1,6 @@
+pip install tweepy
+pip install textblob
+pip install nltk
+
+Create your Twitter App from here -> https://apps.twitter.com/
+Generate ‘Consumer Key’, ‘Consumer Secret’, ‘Access token’ and ‘Access Token Secret’ in Keys and Access Tokens tab
